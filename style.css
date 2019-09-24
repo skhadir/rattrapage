@@ -26,8 +26,9 @@ header {
 }
 
 .wrapper {
+    border: 1px solid black;
     margin: auto;
-    width: 50%;
+    width: 62.5%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -113,6 +114,8 @@ label {
     }
 
     label {
+        font-size: 40px;
+        font-weight: bold;
         display: block;
         cursor: pointer;
     }
