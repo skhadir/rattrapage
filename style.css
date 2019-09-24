@@ -26,7 +26,6 @@ header {
 }
 
 .wrapper {
-    border: 1px solid black;
     margin: auto;
     width: 62.5%;
     display: flex;
